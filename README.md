@@ -12,7 +12,7 @@ This repository serves as a *portfolio of evidence* - POE - displayig  my compet
 
 | Project                          | Description                                                                 | Repository Link |
 |----------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------|
-| Analogue Speed Control           | Automatic temperature-controlled fan system using only analog components.   | [View Repo] ([https://github.com/YOURUSERNAME/your-repo-nam](https://github.com/Kashvir-Sewpersad/Click-Counter-MVC.git)) |
+| Analogue Speed Control           | Automatic temperature-controlled fan system using only analog components.   | [View Repo](https://github.com/Kashvir-Sewpersad/Click-Counter-MVC.git) |
 | 4-Bit Binary To Hexadecimal Convertor | 4-Bit binary to hexadecimal decoder with logic gates & 7-segment display. | [View Repo](https://github.com/YOURUSERNAME/your-repo-name) |
 | Analogue Signal Generator        | Signal generator producing square, triangle & sinusoidal waveforms.         | [View Repo](https://github.com/YOURUSERNAME/your-repo-name) |
 | Poor Mans Oscilloscope           | Arduino-based basic signal analyzer for low-frequency waveforms.            | [View Repo](https://github.com/YOURUSERNAME/your-repo-name) |
