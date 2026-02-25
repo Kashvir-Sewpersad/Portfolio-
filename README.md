@@ -15,7 +15,7 @@ This repository serves as a *portfolio of evidence* - POE - displayig  my compet
 | click counter           |  A simple click counter using ASP.NET MVC   | [View Repo](https://github.com/Kashvir-Sewpersad/Click-Counter-MVC.git) |
 | Programming 7311 assignment   | C# ASP.NET Model view and Controller application   | [View Repo](https://github.com/Kashvir-Sewpersad/Kashvir-Sewpersad-PROG7311-Assignment-2.git) |
 | -         | -         | [View Repo](https://github.com/YOURUSERNAME/your-repo-name) |
-| -           | -             | [View Repo](https://github.com/YOURUSERNAME/your-repo-name) |
+| -         Simple SnakE Game  | -My take on the classic game "Snake" using C# AND WPF             | [View Repo](https://github.com/Kashvir-Sewpersad/simpleSnakeGame.git) |
 | -             | -          | [View Repo](https://github.com/YOURUSERNAME/your-repo-name) |
 | -                   | -                | [View Repo](https://github.com/YOURUSERNAME/your-repo-name) |
 | *  | -         | [View Repo](https://github.com/YOURUSERNAME/your-repo-name) |
